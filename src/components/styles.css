@@ -1,0 +1,27 @@
+.cool-heading {
+    color: darkblue;
+    font-size: 40px;
+    letter-spacing: 8px;
+    text-shadow: 2px 2px 4px black;
+}
+
+.cool-p {
+    box-shadow: inset 3px 3px 4px black;
+    display: inline-block;
+    padding: 4px 18px;
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 32;
+}
+
+.cool-list li {
+    background-color: blueviolet;
+    color: white;
+    display: inline-block;
+    margin: 0 4px;
+    padding: 5px 8px;
+}
+
+.cloudBg {
+    background-image: url(./images/second.jpg);
+}
